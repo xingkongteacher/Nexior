@@ -131,8 +131,8 @@ $height: 60px;
   background: var(--el-bg-color);
 
   .logo {
-    height: 40px;
-    width: 120px;
+    height: 200px;
+    width: 200px;
     cursor: pointer;
     margin-top: 8px;
     margin-right: 20px;
